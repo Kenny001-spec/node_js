@@ -1,0 +1,32 @@
+*,
+*::before,
+*::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    text-align: center;
+    font-size: 1.6rem;
+    background: rgba(188, 143, 143, 0.813);
+    padding: 9rem
+}
+
+.h1,
+h2 {
+    margin-top: 1rem;
+
+}
+
+.header {
+    text-align: center;
+    margin: 0 auto;
+
+}
+
+img {
+    padding: 2rem;
+    width: 200px;
+    height: 300px;
+}
